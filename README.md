@@ -1,6 +1,6 @@
-# Strobe Reactor Jon
+# Strobe Reactor Jon type shi
 
-Welcome to the Strobe Reactor Jon! This is a cool Python application that creates a **dynamic strobe effect** on your screen, reacting to the **bass (low-end) sounds** playing from your computer. Think of it as a light show that grooves with your music!
+Welcome to the ASLR! This is a cool Python application that creates a **dynamic strobe effect** on your screen, reacting to the **bass (low-end) sounds** playing from your computer. Think of it as a light show that grooves with your music!
 
 ## What it Does
 
